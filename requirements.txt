@@ -2,7 +2,5 @@ discord
 discord.py[voice]
 gtts
 PyGithub
-pyssml
 gspread
 oauth2client
-PyOpenSSL
