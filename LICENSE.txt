@@ -230,3 +230,5 @@ This code has the following dependencies
 above and beyond the Python standard library:
 
 httplib2 - MIT License
+
+Naver Clova Voice
